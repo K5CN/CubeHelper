@@ -1,0 +1,26 @@
+[
+    {
+        "name": "2条ATT",
+        "attrs": [
+            "ATT:",
+            "ATT:",
+            "*"
+        ]
+    },
+    {
+        "name": "真三STR",
+        "attrs": [
+            "STR:",
+            "STR:",
+            "STR:"
+        ]
+    },
+    {
+        "name": "假三STR",
+        "attrs": [
+            "STR:",
+            "STR:",
+            "All Stats:"
+        ]
+    }
+]
